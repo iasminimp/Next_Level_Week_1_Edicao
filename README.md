@@ -1,4 +1,4 @@
->> Primeiro baixar no terminal (em modo bash):
+>> Primeiro baixar no terminal (em modo bash) <<
 
 * digitar no terminal:
 
@@ -10,7 +10,7 @@
 
 >> Verificar os plugins, tem que ter o NUNJUCKS 
 
->> Instalar uma biblioteca
+>> Instalar uma biblioteca <<
 
 * digitar no terminal:
 
@@ -20,17 +20,17 @@
 - ela serve pra fazer o mapeamento de algumas aplicações, com ajuda das bibliotecas(node-modules)
 
 
->> Verifica no terminal
+>> Verifica no terminal <<
 
 * digitar no terminal:
 
 [ node src/server.js ]
 
-- verificar o numero da porta(o nome da variavel é: server.listen(número da porta). ela se encontra no arquivo server.js)
--- no caso da NLW #1, a porta é: 3000;
---- no caso da NLW #2, a porta é: 5500;
+->verificar o numero da porta(o nome da variavel é: server.listen(número da porta). ela se encontra no arquivo server.js);
+-> no caso da NLW #1, a porta é: 3000;
+-> no caso da NLW #2, a porta é: 5500;
 
->> Add atalho, para iniciar o servidor
+>> Add atalho, para iniciar o servidor <<
 
 * digitar no terminal:
 [ npm install nodemon -D ]
