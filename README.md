@@ -3,7 +3,7 @@
 * digitar no terminal: 
 [ npm init -y ]
 
-* obs.: 
+>> obs.: 
 - vai criar um arquivo chamado, package .json
 - caso seu arquivo já tenha, não precisa instalar s2
 
