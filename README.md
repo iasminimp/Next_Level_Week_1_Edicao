@@ -27,7 +27,9 @@
 [ node src/server.js ]
 
 ->verificar o numero da porta(o nome da variavel é: server.listen(número da porta). ela se encontra no arquivo server.js);
+
 -> no caso da NLW #1, a porta é: 3000;
+
 -> no caso da NLW #2, a porta é: 5500;
 
 >> Add atalho, para iniciar o servidor <<
