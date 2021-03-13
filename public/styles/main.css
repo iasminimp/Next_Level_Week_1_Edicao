@@ -1,0 +1,45 @@
+:root { /*atalho - root, nesse caso para a cor do texto*/
+    --title-color: #322153;
+    --primary-color:#34cb79 ; /*cor de fundo do botão */
+
+}
+
+* { /*uma atalho para todos elementos*/
+    margin: 0;
+    padding: 0;
+
+}
+
+html { 
+         /*   Estilo da letra         propriedade e valor    */
+   
+    font-family: 'Roboto', sans-serif;
+    }
+
+body{
+    background: #f0f0f5; /*rgb - rgb, greemn, blue */
+    -webkit-font-smoothing: antialiased;
+}
+a {
+    text-decoration: none; /*para tirar todos elementos sublinhados dos a's*/
+
+}
+
+/*box model
+
+Modelo de caixa
+- Toda caixa possui: largura, altura, espaçaamento, preenchimentos, bordas, cor, fundo, maneira que é vista pelo html (display)
+
+*/
+
+
+
+h1, h2, h3, h4, h5, h6 { /*definindo a classe  e style dos títulos*/
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--title-color);
+
+}
+
+
+
+/* comentário*/
