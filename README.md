@@ -23,7 +23,7 @@
 >> Verifica no terminal
 
 * digitar no terminal:
-* 
+
 [ node src/server.js ]
 
 - verificar o numero da porta(o nome da variavel é: server.listen(número da porta). ela se encontra no arquivo server.js)
@@ -43,7 +43,7 @@
 >> então no terminal, basta digitar:
 [ npm run (nome do atalho) ]
 
--> NLW #1, o atalho é: 
+>> NLW #1, o atalho é: 
 
 [ npm run start ]
 
