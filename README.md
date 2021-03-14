@@ -38,8 +38,10 @@
 [ npm install nodemon -D ]
 
 - observar o arquivo "package.json" e verifica abaixo de SCRIPTS, a palavra que esta lá;
---  no caso da NLW #1, o nome é: start;
---- no caso da NLW #2, o nome é: dev;
+
+- no caso da NLW #1, o nome é: start;
+
+- no caso da NLW #2, o nome é: dev;
 
 
 >> então no terminal, basta digitar:
