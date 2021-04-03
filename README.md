@@ -1,4 +1,4 @@
->> Primeiro baixar no terminal (em modo bash) <<
+> Primeiro baixar no terminal (em modo bash) <<
 
 * digitar no terminal:
 
@@ -20,7 +20,7 @@
 - ela serve pra fazer o mapeamento de algumas aplicações, com ajuda das bibliotecas(node-modules)
 
 
->> Verifica no terminal <<
+> Verifica no terminal <<
 
 * digitar no terminal:
 
@@ -32,7 +32,7 @@
 
 -> no caso da NLW #2, a porta é: 5500;
 
->> Add atalho, para iniciar o servidor <<
+> Add atalho, para iniciar o servidor <<
 
 * digitar no terminal:
 [ npm install nodemon -D ]
@@ -44,10 +44,10 @@
 - no caso da NLW #2, o nome é: dev;
 
 
->> então no terminal, basta digitar:
+> então no terminal, basta digitar:
 [ npm run (nome do atalho) ]
 
->> NLW #1, o atalho é: 
+> NLW #1, o atalho é: 
 
 [ npm run start ]
 
