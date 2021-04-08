@@ -1,4 +1,4 @@
-> Primeiro baixar no terminal (em modo bash) <<
+> Primeiro baixar no terminal (em modo bash) 
 
 * digitar no terminal:
 
